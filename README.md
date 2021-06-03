@@ -4,7 +4,7 @@ Some codes from “Essentials of Programming Languages, Third Edition,” MIT Pr
 
 ## Requirement
 
-can work with [EoPL package of Racket v8.0](https://docs.racket-lang.org/eopl/)
+can work with [EoPL package](https://docs.racket-lang.org/eopl/) of Racket v8.0 (or later)
 
 ## Installation
 ```bash
